@@ -13,7 +13,7 @@ crispy-bassoon is a Bootstrap resume or CV landing page theme to help you beauti
 
 ## Url
 
-Coming soon
+https://mikiasgebre.github.io/
 
 ## License
 
